@@ -7,6 +7,9 @@ Bot that keeps checking the Frisco.pl grocery store for an earlier delivery slot
 In 2020 pandemic times online grocery stores were swarmed with orders.
 Polish store frisco.pl had so many sudden customers that available time slots in Warsaw were all taken for weeks ahead of ordering time.
 This created an issue as we didn't want either to leave home or to plan our orders weeks ahead.
+I noticed that random earlier slots can be available during the day as people cancel their orders.
+Decided to write a script that will monitor those and switch my current order to the newly opened slot as it appears.
+Worked great!
 
 ## How it works
 
